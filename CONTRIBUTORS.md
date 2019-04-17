@@ -6,6 +6,10 @@ contribute to, and influence the direction of the project. We actively invite co
 See the [community structure document](http://docs.tvm.ai/contribute/community.html) for the explanation of community structure and contribution guidelines.
 
 
+## Edge Training Committers
+- [Fuyuan Lyu](https://github.com/silentspring2): @silentspring2 - NNVM
+- [Xiaoqiao Xu](https://github.com/xuxiaoqiao): @xuxiaoqiao - TVM
+
 ## Committers
 
 We add tag along with committer name to show areas that they are familiar with.
